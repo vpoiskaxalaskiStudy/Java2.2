@@ -1,0 +1,12 @@
+<books>
+    <book>
+        <name>Преступление и наказание</name>
+        <author>Достоевский Ф.М.</author>
+        <price>20</price>
+    </book>
+    <book>
+        <name>Война и мир</name>
+        <author>Толстой Л.Н.</author>
+        <price>30</price>
+    </book>
+</books>
